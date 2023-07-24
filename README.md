@@ -1,7 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Guilherme!
 
-- I’m currently working on <a href="https://www.zettabrasil.com.br/">Zetta Brasil Sistema de Gestão</a>
 - I'm studying software engineering
 
 ### I already worked with:
